@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <array name="ProductorasOpciones">
+        <item>Productoras</item>
+        <item>KarmaProducciones</item>
+        <item>Eloquent</item>
+        <item>Invasion</item>
+    </array>
+    <array name="TipoEventos">
+        <item>Eventos</item>
+        <item>Matrimonio</item>
+        <item>Graduaciones</item>
+        <item>Navideño</item>
+        <item>Empresa</item>
+        <item>Masivo</item>
+        <item>De Verano</item>
+    </array>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Imagen de perfil -->
+    <ImageView
+        android:id="@+id/fotoImageView"
+        android:layout_width="match_parent"
+        android:layout_height="242dp"
+        app:srcCompat="@drawable/polla__1_" />
+
+    <!-- Nombre de la productora -->
+    <TextView
+        android:id="@+id/nombreTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/fotoImageView"
+        android:layout_centerHorizontal="true"
+        android:text="Eloquent"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Correo electrónico -->
+    <TextView
+        android:id="@+id/correoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nombreTextView"
+        android:layout_centerHorizontal="true"
+        android:text="Correo: eloquent@gmail.com"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Número de teléfono -->
+    <TextView
+        android:id="@+id/telefonoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/correoTextView"
+        android:layout_centerHorizontal="true"
+        android:text="Número de Teléfono: +934644135"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Descripción de la productora -->
+    <TextView
+        android:id="@+id/descripcionTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/telefonoTextView"
+        android:layout_marginTop="24dp"
+        android:gravity="start"
+        android:padding="16dp"
+        android:text="Eloquent es un emprendimiento que se ha hecho experto en la organización de eventos, donde tú eliges donde y como quieres que sea. Nuestra misión es hacer que cada proyecto sea innovador y efectivo. Contamos con un equipo apasionado que sabe cómo trabajar de forma creativa y hacemos que tus eventos sean especiales y se adapten a tus necesidades para que sean inolvidables."
+        android:textSize="16sp" />
+
+    <!-- Botón para ir al formulario -->
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/botonIrAFormulario"
+        android:layout_width="77dp"
+        android:layout_height="71dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="24dp"
+        app:rippleColor="#AF4747"
+        app:srcCompat="@drawable/baseline_add_circle_outline_24" />
+
+</RelativeLayout>
