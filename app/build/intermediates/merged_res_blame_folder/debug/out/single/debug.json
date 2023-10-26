@@ -1,63 +1,167 @@
 [
     {
-        "merged": "com.example.myapp-merged_res-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapp-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\layout\\toolbar.xml"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.myapp-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\layout_fragment_perfil_usuario.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\layout\\fragment_perfil_usuario.xml"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/xml_backup_rules.xml.flat",
-        "source": "com.example.myapp-main-42:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/layout_activity_main.xml.flat",
-        "source": "com.example.myapp-main-42:/layout/activity_main.xml"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/drawable_polla__2_.png.flat",
-        "source": "com.example.myapp-main-42:/drawable/polla__2_.png"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\drawable_baseline_add_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\drawable\\baseline_add_circle_outline_24.xml"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/layout_toolbar.xml.flat",
-        "source": "com.example.myapp-main-42:/layout/toolbar.xml"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/layout_buttombar.xml.flat",
-        "source": "com.example.myapp-main-42:/layout/buttombar.xml"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/menu_menu.xml.flat",
-        "source": "com.example.myapp-main-42:/menu/menu.xml"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\drawable_polla__1_.png.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\drawable\\polla__1_.png"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/drawable_smaopxea.png.flat",
-        "source": "com.example.myapp-main-42:/drawable/smaopxea.png"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/drawable_baseline_account_circle_24.xml.flat",
-        "source": "com.example.myapp-main-42:/drawable/baseline_account_circle_24.xml"
+        "merged": "com.example.myapp-merged_res-40:/drawable_invasion.png.flat",
+        "source": "com.example.myapp-main-42:/drawable/invasion.png"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapp-main-42:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapp-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\layout_activity_eloquent_perfil.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\layout\\activity_eloquent_perfil.xml"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapp-main-42:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\layout_activity_productora1.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\layout\\activity_productora1.xml"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/drawable_baseline_add_circle_outline_24.xml.flat",
-        "source": "com.example.myapp-main-42:/drawable/baseline_add_circle_outline_24.xml"
+        "merged": "com.example.myapp-merged_res-40:/drawable_karma.png.flat",
+        "source": "com.example.myapp-main-42:/drawable/karma.png"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapp-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.example.myapp-merged_res-40:/layout_activity_invasion_perfil.xml.flat",
+        "source": "com.example.myapp-main-42:/layout/activity_invasion_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\drawable_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\drawable\\baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\drawable_captura_de_pantalla_2023_09_27_131633.png.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\drawable\\captura_de_pantalla_2023_09_27_131633.png"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\drawable_smaopxea.png.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\drawable\\smaopxea.png"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\drawable_baseline_snowmobile_24.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\drawable\\baseline_snowmobile_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\layout_buttombar.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\layout\\buttombar.xml"
+    },
+    {
+        "merged": "com.example.myapp-merged_res-40:/layout_activity_eloquent_perfil.xml.flat",
+        "source": "com.example.myapp-main-42:/layout/activity_eloquent_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-pngs-35:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\layout_activity_formularios_solicitudes.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\layout\\activity_formularios_solicitudes.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\layout_activity_invasion_perfil.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\layout\\activity_invasion_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\layout_item_solicitud.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\layout\\item_solicitud.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\drawable_baseline_person_pin_24.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\drawable\\baseline_person_pin_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\drawable_polla__2_.png.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\drawable\\polla__2_.png"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\drawable_imagen_perfil_sin_foto.png.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\drawable\\imagen_perfil_sin_foto.png"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\layout_activity_karma_perfil.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\layout\\activity_karma_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "com.example.myapp-merged_res-40:/layout_activity_karma_perfil.xml.flat",
@@ -68,99 +172,23 @@
         "source": "com.example.myapp-main-42:/layout/fragment_home.xml"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.myapp-pngs-35:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/layout_activity_registro.xml.flat",
-        "source": "com.example.myapp-main-42:/layout/activity_registro.xml"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\drawable_captura_de_pantalla_2023_09_27_132126.png.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\drawable\\captura_de_pantalla_2023_09_27_132126.png"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/drawable_baseline_home_24.xml.flat",
-        "source": "com.example.myapp-main-42:/drawable/baseline_home_24.xml"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\layout_activity_solicitudes.xml.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\layout\\activity_solicitudes.xml"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.myapp-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\camil\\.gradle\\daemon\\8.0\\com.example.myapp-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.myapp-merged_res-40:/layout_activity_invasion_perfil.xml.flat",
-        "source": "com.example.myapp-main-42:/layout/activity_invasion_perfil.xml"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/drawable_baseline_snowmobile_24.xml.flat",
-        "source": "com.example.myapp-main-42:/drawable/baseline_snowmobile_24.xml"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.myapp-main-42:/drawable/ic_launcher_background.xml"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/layout_item_solicitud.xml.flat",
-        "source": "com.example.myapp-main-42:/layout/item_solicitud.xml"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/layout_fragment_perfil_usuario.xml.flat",
-        "source": "com.example.myapp-main-42:/layout/fragment_perfil_usuario.xml"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.myapp-main-42:/xml/data_extraction_rules.xml"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/drawable_baseline_person_pin_24.xml.flat",
-        "source": "com.example.myapp-main-42:/drawable/baseline_person_pin_24.xml"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/layout_activity_productora1.xml.flat",
-        "source": "com.example.myapp-main-42:/layout/activity_productora1.xml"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/layout_activity_formularios_solicitudes.xml.flat",
-        "source": "com.example.myapp-main-42:/layout/activity_formularios_solicitudes.xml"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapp-main-42:/mipmap-hdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/drawable_captura_de_pantalla_2023_09_27_132126.png.flat",
-        "source": "com.example.myapp-main-42:/drawable/captura_de_pantalla_2023_09_27_132126.png"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/layout_activity_eloquent_perfil.xml.flat",
-        "source": "com.example.myapp-main-42:/layout/activity_eloquent_perfil.xml"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapp-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/drawable_polla__1_.png.flat",
-        "source": "com.example.myapp-main-42:/drawable/polla__1_.png"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapp-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapp-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/drawable_captura_de_pantalla_2023_09_27_131633.png.flat",
-        "source": "com.example.myapp-main-42:/drawable/captura_de_pantalla_2023_09_27_131633.png"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/drawable_imagen_perfil_sin_foto.png.flat",
-        "source": "com.example.myapp-main-42:/drawable/imagen_perfil_sin_foto.png"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapp-main-42:/mipmap-mdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.myapp-merged_res-40:/layout_activity_solicitudes.xml.flat",
-        "source": "com.example.myapp-main-42:/layout/activity_solicitudes.xml"
+        "merged": "com.example.myapp-merged_res-40:/drawable_eloquent.png.flat",
+        "source": "com.example.myapp-main-42:/drawable/eloquent.png"
     }
 ]

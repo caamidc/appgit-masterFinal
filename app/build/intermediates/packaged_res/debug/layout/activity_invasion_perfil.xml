@@ -12,7 +12,7 @@
         android:id="@+id/fotoImageView"
         android:layout_width="match_parent"
         android:layout_height="217dp"
-        app:srcCompat="@drawable/polla__2_" />
+        app:srcCompat="@drawable/invasion" />
 
     <TextView
         android:id="@+id/nombreTextView"

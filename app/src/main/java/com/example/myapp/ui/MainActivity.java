@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         // Llama a la función para asegurar la carpeta de fotos de perfil
-        asegurarCarpetaFotosPerfil();
+        //asegurarCarpetaFotosPerfil();
     }
 
     public void ingresar(View v) {

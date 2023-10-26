@@ -11,12 +11,12 @@ drawable baseline_person_pin_24
 drawable baseline_snowmobile_24
 drawable captura_de_pantalla_2023_09_27_131633
 drawable captura_de_pantalla_2023_09_27_132126
+drawable eloquent
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable imagen_perfil_sin_foto
-drawable polla__1_
-drawable polla__2_
-drawable smaopxea
+drawable invasion
+drawable karma
 id Perfil33
 id PerfilUsuario
 id appbar
