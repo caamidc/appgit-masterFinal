@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Definir la imagen de Invasión -->
+
+    <ImageView
+        android:id="@+id/fotoImageView"
+        android:layout_width="match_parent"
+        android:layout_height="217dp"
+        app:srcCompat="@drawable/polla__2_" />
+
+    <TextView
+        android:id="@+id/nombreTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/fotoImageView"
+        android:layout_centerHorizontal="true"
+        android:text="Invasión"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:id="@+id/correoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nombreTextView"
+        android:layout_centerHorizontal="true"
+        android:text="Correo: invasion@gmail.com"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:id="@+id/telefonoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/correoTextView"
+        android:layout_centerHorizontal="true"
+        android:text="Número de Teléfono: +956565949"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:id="@+id/descripcionTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/telefonoTextView"
+        android:layout_marginTop="24dp"
+        android:gravity="start"
+        android:padding="16dp"
+        android:text="Invasión es una empresa que se dedica a crear contenido audiovisual. Nos apasiona la originalidad y contar historias impactantes a través del cine, la televisión y otros medios. Cada proyecto es una oportunidad para desafiar límites y crear experiencias visuales inolvidables."
+        android:textSize="16sp" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/botonIrAFormulario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        app:srcCompat="@drawable/baseline_add_circle_outline_24" />
+
+</RelativeLayout>

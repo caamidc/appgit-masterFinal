@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Foto de KarmaProducciones -->
+    <ImageView
+        android:id="@+id/fotoImageView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        app:srcCompat="@drawable/smaopxea" /> <!-- Aquí puedes definir la imagen de KarmaProducciones -->
+
+    <!-- Nombre de KarmaProducciones -->
+    <TextView
+        android:id="@+id/nombreTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/fotoImageView"
+        android:layout_centerHorizontal="true"
+        android:text="KarmaProducciones"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Correo de KarmaProducciones -->
+    <TextView
+        android:id="@+id/correoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nombreTextView"
+        android:layout_centerHorizontal="true"
+        android:text="Correo: karmaproducciones@gmail.com"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Número de Teléfono de KarmaProducciones -->
+    <TextView
+        android:id="@+id/telefonoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/correoTextView"
+        android:layout_centerHorizontal="true"
+        android:text="Número de Teléfono: +986867032"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Descripción de KarmaProducciones -->
+    <TextView
+        android:id="@+id/descripcionTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/telefonoTextView"
+        android:layout_marginTop="24dp"
+        android:gravity="start"
+        android:padding="16dp"
+        android:text="KarmaProducciones es una empresa que organiza eventos de todo tipo. Desde fiestas de cumpleaños inolvidables hasta eventos corporativos impactantes, estamos dedicados a hacer que cada ocasión sea inolvidable. Nos destacamos por ser creativos e innovadores, lo que nos permite ofrecer momentos únicos y emocionantes a nuestros clientes."
+        android:textSize="16sp" />
+    <!-- Botón flotante para ir al formulario -->
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/botonIrAFormulario"
+        android:layout_width="74dp"
+        android:layout_height="74dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        app:srcCompat="@drawable/baseline_add_circle_outline_24" />
+
+
+</RelativeLayout>

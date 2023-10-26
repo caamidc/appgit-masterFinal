@@ -10,7 +10,7 @@
         android:id="@+id/fotoImageView"
         android:layout_width="match_parent"
         android:layout_height="242dp"
-        app:srcCompat="@drawable/polla__1_" />
+        app:srcCompat="@drawable/eloquent" />
 
     <!-- Nombre de la productora -->
     <TextView

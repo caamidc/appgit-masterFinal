@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ui.PerfilUsuario">
+
+    <!-- Imagen de perfil del usuario -->
+
+    <!-- Nombre del usuario -->
+
+    <ImageView
+        android:id="@+id/imageButtonPerfil"
+        android:layout_width="290dp"
+        android:layout_height="232dp"
+        android:layout_gravity="center"
+        android:src="@drawable/imagen_perfil_sin_foto" />
+
+
+    <TextView
+        android:id="@+id/nombreUsuarioTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:text="nombre_usuario"
+        android:textSize="18sp" />
+
+    <!-- Correo electrónico del usuario -->
+
+    <!-- Información adicional del usuario -->
+
+    <!-- Botón para editar el perfil -->
+
+    <TextView
+        android:id="@+id/correoUsuarioTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="8dp"
+        android:text="usuario@example.com"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/editarFotoButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="32dp"
+        android:text="Editar Foto" />
+
+</LinearLayout>
+

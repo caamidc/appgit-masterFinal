@@ -12,7 +12,7 @@
         android:layout_height="200dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp"
-        app:srcCompat="@drawable/smaopxea" /> <!-- Aquí puedes definir la imagen de KarmaProducciones -->
+        app:srcCompat="@drawable/karma" /> <!-- Aquí puedes definir la imagen de KarmaProducciones -->
 
     <!-- Nombre de KarmaProducciones -->
     <TextView
